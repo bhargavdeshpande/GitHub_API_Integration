@@ -1,5 +1,5 @@
 
-**Project Description**: Use of Rest API to perform different tasks in GitHub account
+**Project Description**: Use of Rest API to perform different tasks in GitHub account.
 
 **Technical Description:** <br />
 It is a Java Maven Project <br />
